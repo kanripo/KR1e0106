@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋管窺
-#+DATE: 2015-09-23 09:40:37
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 22:17:12.935505
+#+PROPERTY: ID KR1e0106
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR1e0106_WYG_009-1a>¶
 欽定四庫全書¶
 　春秋管窺卷九¶
@@ -686,4 +688,3 @@
 　弑犁比公者展輿也曷為書人而不書展輿由犁比¶
 　公虐國人患之故攻而弑之以衆告不以展輿告也¶
 　春秋管窺卷九¶
-

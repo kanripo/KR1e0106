@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋管窺
-#+DATE: 2015-09-23 09:40:37
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 22:17:12.903154
+#+PROPERTY: ID KR1e0106
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR1e0106_WYG_007-1a>¶
 欽定四庫全書¶
 　春秋管窺卷七¶
@@ -362,4 +364,3 @@
 　¶
 　¶
 　春秋管窺卷七¶
-
